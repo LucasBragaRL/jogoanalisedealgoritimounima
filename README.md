@@ -1,0 +1,1 @@
+não tenho grupo e fiz sozinho um jogo simples que roda no terminal,vc tem q apertar W e dar enter pra o personagem se mecher, nao consegui fazer automatico foi o melhor q consegui fazer na minha capacidade
